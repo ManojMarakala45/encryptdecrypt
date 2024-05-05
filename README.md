@@ -9,7 +9,7 @@ This is a simple web-based encryption/decryption tool that allows you to encrypt
 
 ## Usage
 
-1. Go to 
+1. Go to https://manojmarakala45.github.io/encryptdecrypt/
 2. Enter a key in the "Key" field
 3. Enter a message in the "Message" field
 4. Click the "Encrypt" button to encrypt the message
